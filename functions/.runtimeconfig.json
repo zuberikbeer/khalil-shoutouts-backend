@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://zuberikbeer:redbull@cluster0.zcjs8tv.mongodb.net/gc?retryWrites=true&w=majority"
+  }
+}
