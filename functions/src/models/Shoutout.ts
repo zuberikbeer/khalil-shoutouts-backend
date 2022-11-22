@@ -5,4 +5,7 @@ export default interface Shoutout {
   to: string;
   from: string;
   text: string;
+  upvotes: number;
+  profilePic: string;
+  image?: string;
 }
